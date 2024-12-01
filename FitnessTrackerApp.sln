@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessTrackerCore", "FitnessTrackerCore\FitnessTrackerCore.csproj", "{9B19E997-2BD3-4A5C-8D92-2DF4AC5139A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessTrackerCLI", "FitnessTrackerCLI\FitnessTrackerCLI.csproj", "{8269B65B-BCBB-43AD-8327-BAE8E0CB43F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B19E997-2BD3-4A5C-8D92-2DF4AC5139A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B19E997-2BD3-4A5C-8D92-2DF4AC5139A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B19E997-2BD3-4A5C-8D92-2DF4AC5139A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B19E997-2BD3-4A5C-8D92-2DF4AC5139A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8269B65B-BCBB-43AD-8327-BAE8E0CB43F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8269B65B-BCBB-43AD-8327-BAE8E0CB43F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8269B65B-BCBB-43AD-8327-BAE8E0CB43F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8269B65B-BCBB-43AD-8327-BAE8E0CB43F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38F4357-C325-403D-949A-A1D7B10E9854}
+	EndGlobalSection
+EndGlobal

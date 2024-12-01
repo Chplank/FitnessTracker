@@ -1,0 +1,14 @@
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\bin\Debug\net8.0\FitnessTrackerCore.deps.json
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\bin\Debug\net8.0\FitnessTrackerCore.runtimeconfig.json
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\bin\Debug\net8.0\FitnessTrackerCore.dll
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\bin\Debug\net8.0\FitnessTrackerCore.pdb
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.csproj.AssemblyReference.cache
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.AssemblyInfoInputs.cache
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.AssemblyInfo.cs
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.csproj.CoreCompileInputs.cache
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.dll
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\refint\FitnessTrackerCore.dll
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.pdb
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\FitnessTrackerCore.genruntimeconfig.cache
+C:\Users\cplank\source\repos\FitnessTrackerApp\FitnessTrackerCore\obj\Debug\net8.0\ref\FitnessTrackerCore.dll
